@@ -11,6 +11,7 @@ const routes: Routes = [
   },
   {
     path: 'friend',
+    asdsadasdsadasas
     component: FriendComponent
   },
   {
